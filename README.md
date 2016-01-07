@@ -59,4 +59,5 @@ License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-    The icon for the `slogan.png` is taken from Yummygum’s Iconsweets iconset, and is used under the terms of its license (http://yummygum.com/work/iconsweets).
+    The icon for the `slogan.png` is taken from Yummygum’s Iconsweets iconset,
+    and is used under the terms of its license (http://yummygum.com/work/iconsweets).
