@@ -1,4 +1,5 @@
-# uBlock Elitepvpers Usersignatures
+![Slogan](img/slogan.png)
+
 Blocks advertising in elitepvpers usersignatures for uBlock Origin and AdBlock Plus
 
 Tired of flashy usersignatures? Don't want to see bloated advertising which consumes your bandwidth? Some of them even tracks you. And since you already installed an adblocker, you shouldn't see advertising at all.
@@ -35,21 +36,21 @@ Insert a filter list title and the link above and click on "Add". Now update you
 
 License
 -------------
-  
+
     The MIT License (MIT)
-    
-    Copyright (c) 2015 Der-Eddy
-    
+
+    Copyright (c) 2015 - 2016 Der-Eddy
+
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
     furnished to do so, subject to the following conditions:
-    
+
     The above copyright notice and this permission notice shall be included in all
     copies or substantial portions of the Software.
-    
+
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -57,3 +58,5 @@ License
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+    The icon for the `slogan.png` is taken from Yummygum’s Iconsweets iconset, and is used under the terms of its license (http://yummygum.com/work/iconsweets).
