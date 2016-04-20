@@ -1199,7 +1199,7 @@ de.anisearch.com###rtopA
 ||i.imgur.com/wpJmhMZ.png
 
 ! 19.3.2016, 16:41:04 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1147.html
-||www.serraniel.com/api/api.php?cmd=getbanner&mode=special&id=508
+||www.serraniel.com/api/api.php
 
 ! 19.3.2016, 17:41:40 https://www.elitepvpers.com/forum/elite-gold-trading/3643278-e-log-dokumentiere-dein-einkommen-auskommen-auf-elitepvpers.html
 ||i.imgur.com/FHEfKsJ.png
@@ -1241,7 +1241,7 @@ de.anisearch.com###rtopA
 ||i.epvpimg.com/oj8qg.png
 
 ! 22.3.2016, 16:31:02 https://www.elitepvpers.com/forum/coding-tutorials/4015260-how2hack-epvp-random-images.html
-||www.serraniel.com/api/api.php
+||www.serraniel.com/api/api.php?cmd=getbanner&mode=special&id=490
 
 ! 22.3.2016, 22:20:44 https://www.elitepvpers.com/forum/overwatch-trading/4024005-want-sell-my-overwatch-account.html#post34180574
 ||i.epvpimg.com/5oLPd.png
@@ -1497,3 +1497,240 @@ www.elitepvpers.com###td_post_34223697 > div:nth-of-type(2)
 
 ! 29.3.2016, 02:27:33 https://www.elitepvpers.com/forum/elite-gold-support/4029554-gehackter-account-verteilt-negative-bewertungen.html
 ||i.epvpimg.com/7fp2e.gif
+
+! 30.3.2016, 18:14:16 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1228.html
+||puu.sh/nZl48/7d7e467cae.png
+
+! 30.3.2016, 22:22:35 https://www.elitepvpers.com/forum/freebies/4032136-1000-tbm-10000-e-gold-biggest-e-gold-user-raffle.html
+||i.epvpimg.com/ixq2e.gif
+
+! 30.3.2016, 22:22:39 https://www.elitepvpers.com/forum/freebies/4032136-1000-tbm-10000-e-gold-biggest-e-gold-user-raffle.html
+||images.weserv.nl/?url=fs5.directupload.net%2Fimages%2F160316%2Fyssfqw4w.jpg
+
+! 30.3.2016, 22:38:28 https://www.elitepvpers.com/forum/members/6506688-nohandz.html
+||i.epvpimg.com/JbApe.gif
+
+! 30.3.2016, 22:39:43 https://www.elitepvpers.com/forum/league-legends-trading/4032284-suche-lol-acc.html
+||images.weserv.nl/?url=www2.pic-upload.de%2Fimg%2F29080059%2Fsignatur.jpg
+
+! 31.3.2016, 17:15:53 https://www.elitepvpers.com/forum/members/6711393-elo-masters.html
+||i.epvpimg.com/I3LXg.jpg
+
+! 31.3.2016, 17:17:11 https://www.elitepvpers.com/forum/tbm-rating-support/4030378-unjustified-ridiculous-1-a.html#post34230582
+||i.epvpimg.com/OLLCb.gif
+
+! 31.3.2016, 17:45:04 https://www.elitepvpers.com/forum/counter-strike-trading/4026084-csgo-key-gift-account.html
+||i.imgur.com/lzqCwjr.gif
+
+! 1.4.2016, 00:51:14 https://www.elitepvpers.com/forum/trading/4033108-20-steam-gift-card-code-10-btc-only.html
+||i.imgur.com/nugDvj5.gif
+
+! 1.4.2016, 01:13:07 https://www.elitepvpers.com/forum/blade-soul-trading/4024609-lvl-45-destroyer-warlock-cheap-20-a-2.html#post34235712
+||images.weserv.nl/?url=i.gyazo.com%2F143649bc33a2ce680d59e3a0f0dc1157.png
+
+! 1.4.2016, 16:52:35 https://www.elitepvpers.com/forum/main/4033313-aktueller-egold-kurs.html#post34250844
+||i.epvpimg.com/EP3Hf.gif
+
+! 1.4.2016, 16:52:38 https://www.elitepvpers.com/forum/main/4033313-aktueller-egold-kurs.html#post34250844
+||i.epvpimg.com/nRx4c.gif
+
+! 1.4.2016, 17:38:31 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1246.html#post34250773
+||images.weserv.nl/?url=abload.de%2Fimg%2Fjobbrsegifghos8.gif
+
+! 1.4.2016, 20:37:06 https://www.elitepvpers.com/forum/league-legends-trading/4033673-searching-challenger-booster-can-verify-he-challenger.html
+||images.weserv.nl/?url=i57.tinypic.com%2F34pncdg.gif
+
+! 2.4.2016, 00:29:36 https://www.elitepvpers.com/forum/main/4033313-aktueller-egold-kurs.html#post34253453
+||i.epvpimg.com/Ibr5f.png
+
+! 2.4.2016, 02:58:13 https://www.elitepvpers.com/forum/off-topic/4033833-investieren-aber-wo.html
+||i.epvpimg.com/bvy1c.png
+
+! 2.4.2016, 20:36:39 https://www.elitepvpers.com/forum/trading/3982274-need-exchanger-paypal-nettler-skrill.html#post33840874
+||i.epvpimg.com/jOXnh.png
+
+! 2.4.2016, 20:36:42 https://www.elitepvpers.com/forum/trading/3982274-need-exchanger-paypal-nettler-skrill.html#post33840874
+||i.epvpimg.com/ZSSJh.png
+
+! 2.4.2016, 20:36:45 https://www.elitepvpers.com/forum/trading/3982274-need-exchanger-paypal-nettler-skrill.html#post33840874
+||i.epvpimg.com/hyfng.png
+
+! 3.4.2016, 18:51:39 https://www.elitepvpers.com/forum/minecraft-trading/4032071-minecraft-full-access-accounts-only-0-90-a.html
+||i.imgur.com/VJDRQ2X.png
+
+! 3.4.2016, 20:42:36 https://www.elitepvpers.com/forum/metin2-pserver-guides-strategies/4033616-release-md5-bruteforce-tool.html
+||i.epvpimg.com/bZCHb.gif
+
+! 4.4.2016, 01:30:51 https://www.elitepvpers.com/forum/league-legends-trading/4035057-need-eu-west-account.html#post34262663
+||i.imgur.com/NnPABTs.png
+
+! 4.4.2016, 01:37:21 https://www.elitepvpers.com/forum/trading/4035257-amazon-gutschein-paypal.html
+||i.imgur.com/DW9EQ.jpg
+
+! 4.4.2016, 01:46:43 https://www.elitepvpers.com/forum/league-legends-trading/3954811-new-eloboost-website-looking-na-oce-booster.html
+||images.weserv.nl/?url=s27.postimg.org%2Fnijo4h8cz%2FSignture.gif
+
+! 4.4.2016, 01:54:47 https://www.elitepvpers.com/forum/s4-league-trading/4034832-pen-bot-140k-pen-hour.html
+||i.epvpimg.com/jLpFf.png
+
+! 4.4.2016, 01:54:50 https://www.elitepvpers.com/forum/s4-league-trading/4034832-pen-bot-140k-pen-hour.html
+||i.epvpimg.com/NvUhc.png
+
+! 4.4.2016, 01:54:52 https://www.elitepvpers.com/forum/s4-league-trading/4034832-pen-bot-140k-pen-hour.html
+||i.epvpimg.com/opiUf.png
+
+! 4.4.2016, 12:26:54 https://www.elitepvpers.com/forum/complaint-area/4035604-league-trading-needs-mods.html#post34266889
+||i.epvpimg.com/bRYgd.png
+
+! 4.4.2016, 17:43:05 https://www.elitepvpers.com/forum/trading/3967430-netflix-random-account-premium-shop.html
+||i.imgur.com/dVnRQzz.jpg
+
+! 4.4.2016, 18:07:53 https://www.elitepvpers.com/forum/web-development/4016161-https-ssl-richtig-eingesetzt.html
+||images.weserv.nl/?url=fs5.directupload.net%2Fimages%2F160320%2Fbmtay9l8.gif
+
+! 5.4.2016, 16:56:01 https://www.elitepvpers.com/forum/general-coding/4033546-qt-compiler-einbinden.html
+||images.weserv.nl/?url=www.abload.de%2Fimg%2Fjura5bk8c.gif
+
+! 5.4.2016, 21:31:17 https://www.elitepvpers.com/forum/s4-league-hacks-bots-cheats-exploits/4035598-release-s4-valofe-launcher-bypass.html#post34266857
+||i.epvpimg.com/a89yb.jpg
+
+! 7.4.2016, 17:20:30 https://www.elitepvpers.com/forum/off-topic/4037913-s-designer-f-r-epvp-thema.html#post34285007
+||i.epvpimg.com/E8srh.png
+
+! 8.4.2016, 14:55:57 https://www.elitepvpers.com/forum/main/4038318-als-owner-reich-2.html#post34289942
+||i.imgur.com/jenijnE.png
+
+! 9.4.2016, 17:11:38 https://www.elitepvpers.com/forum/joining-e-pvp/256200-collective-thread-forum-guardian-applications-forum-guard-bewerbungen-342.html
+||images.weserv.nl/?url=s28.postimg.org%2Fy033d77fv%2Fv0_HAPO.gif
+
+! 9.4.2016, 17:41:51 https://www.elitepvpers.com/forum/counter-strike-trading/4038641-cs-go-accounts-gifts.html
+||images.weserv.nl/?url=img5.fotos-hochladen.net%2Fuploads%2Fbannerlik93ucm10.png
+
+! 9.4.2016, 22:40:48 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1285.html
+||images.weserv.nl/?url=www2.pic-upload.de%2Fimg%2F30308596%2Fhikari1.gif
+
+! 9.4.2016, 22:40:51 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1285.html
+||images.weserv.nl/?url=www2.pic-upload.de%2Fimg%2F30308614%2Frog2.gif
+
+! 10.4.2016, 18:12:01 https://www.elitepvpers.com/forum/league-legends-trading/3024877-league-legends-sephirofl-lifetime-unban-service-42.html#post34297961
+||images.weserv.nl/?url=i25.photobucket.com%2Falbums%2Fc89%2Fbigzuc0%2Fseph_zpsf039c37b.png
+
+! 11.4.2016, 16:22:16 https://www.elitepvpers.com/forum/elite-gold-trading/4040587-forenspiel-zitat.html
+||i.epvpimg.com/wttob.png
+
+! 11.4.2016, 18:36:56 https://www.elitepvpers.com/forum/general-coding/4040494-wie-ist-shazam-aufgebaut.html
+||hostisan.com/signatur.jpg
+
+! 11.4.2016, 20:02:20 https://www.elitepvpers.com/forum/league-legends-trading/4040859-laeuw-scammer-care.html#post34308378
+||images.weserv.nl/?url=i435.photobucket.com%2Falbums%2Fqq77%2Fglassboxdesign%2FTrist-A.gif
+
+! 11.4.2016, 20:02:23 https://www.elitepvpers.com/forum/league-legends-trading/4040859-laeuw-scammer-care.html#post34308378
+||images.weserv.nl/?url=i435.photobucket.com%2Falbums%2Fqq77%2Fglassboxdesign%2FTrist-H.gif
+
+! 11.4.2016, 20:02:25 https://www.elitepvpers.com/forum/league-legends-trading/4040859-laeuw-scammer-care.html#post34308378
+||images.weserv.nl/?url=i435.photobucket.com%2Falbums%2Fqq77%2Fglassboxdesign%2FTrist-G.gif
+
+! 11.4.2016, 20:02:27 https://www.elitepvpers.com/forum/league-legends-trading/4040859-laeuw-scammer-care.html#post34308378
+||images.weserv.nl/?url=i435.photobucket.com%2Falbums%2Fqq77%2Fglassboxdesign%2FTrist-I.gif
+
+! 11.4.2016, 20:02:30 https://www.elitepvpers.com/forum/league-legends-trading/4040859-laeuw-scammer-care.html#post34308378
+||images.weserv.nl/?url=i435.photobucket.com%2Falbums%2Fqq77%2Fglassboxdesign%2FTrist-C.gif
+
+! 11.4.2016, 20:16:54 https://www.elitepvpers.com/forum/counter-strike-trading/3756742-m9-doppler-phase-1-250-via-paypal.html
+||images.weserv.nl/?url=img5.fotos-hochladen.net%2Fuploads%2Flolbannerp3yq5ztdr2.png
+
+! 11.4.2016, 20:37:46 https://www.elitepvpers.com/forum/technical-support/4040949-firefox-l-scht-passw-rter.html#post34309194
+||i.imgur.com/yfCGXPw.gif
+
+! 12.4.2016, 00:03:42 https://www.elitepvpers.com/forum/trading/4036892-biete-50-psc-de-off-gegen-paypal.html
+||imgur.com/WovCxhf.png
+
+! 12.4.2016, 20:38:49 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1308.html
+||images.weserv.nl/?url=kreios2.org%2Fimg%2FTeamler%2FBonus.gif
+
+! 12.4.2016, 21:32:24 https://www.elitepvpers.com/forum/trading/4041719-kostenlos-10-paypal-guthaben-ganz-einfach.html
+||i.epvpimg.com/KVAjh.gif
+
+! 12.4.2016, 21:36:38 https://www.elitepvpers.com/forum/league-legends-trading/4036199-project-boosting-trusted-25-tbm.html#post34314382
+||i.epvpimg.com/qzL3h.gif
+
+! 12.4.2016, 21:38:32 https://www.elitepvpers.com/forum/fly-fun-trading/4041320-selling-perins-all-servers-cheap.html#post34312675
+||i.imgur.com/1ppOHFr.png
+
+! 12.4.2016, 21:38:35 https://www.elitepvpers.com/forum/fly-fun-trading/4041320-selling-perins-all-servers-cheap.html#post34312675
+||i.imgur.com/woWwX7J.png
+
+! 13.4.2016, 17:19:42 https://www.elitepvpers.com/forum/elite-gold-trading/4039184-xalex2106s-elite-gold-und-verkauf.html
+||i.epvpimg.com/gaEFe.jpg
+
+! 13.4.2016, 19:54:29 https://www.elitepvpers.com/forum/complaint-area/4042284-fehlerhafte-uhr.html#post34320421
+||images.weserv.nl/?url=fs5.directupload.net%2Fimages%2F160407%2Fbvvz9ojh.jpg
+
+! 14.4.2016, 16:17:46 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1323.html
+||i.epvpimg.com/6oWdh.jpg
+
+! 14.4.2016, 22:45:56 https://www.elitepvpers.com/forum/trading/4042405-s-10-00-psc-b-13-00-pp.html#post34321307
+||images.weserv.nl/?url=fs5.directupload.net%2Fimages%2F160225%2Fn78vng8w.jpg
+
+! 15.4.2016, 22:58:04 https://www.elitepvpers.com/forum/metin2-trading/4015248-praios-500dr-gutscheine-shop-2.html#post34315830
+||images.weserv.nl/?url=fs5.directupload.net%2Fimages%2F160309%2Fos5qpnrg.png
+
+! 15.4.2016, 23:02:43 https://www.elitepvpers.com/forum/aion-hacks-bots-cheats-exploits/2337243-aionspot-bot-aion-na-gameforge-115.html#post34326803
+||i.epvpimg.com/XgLqc.jpg
+
+! 15.4.2016, 23:40:30 https://www.elitepvpers.com/forum/suggestions/4043086-requirement-calling-yourself-trusted.html#post34333102
+||i.imgur.com/7LpOdJn.png
+
+! 16.4.2016, 22:41:25 https://www.elitepvpers.com/forum/s4-league-hacks-bots-cheats-exploits/4044558-release-project-kira-ct-godmode-1hit-hp-changer-teleport-manager.html
+||images.weserv.nl/?url=nsa38.casimages.com%2Fimg%2F2016%2F04%2F10%2F160410055102810121.jpg
+
+! 17.4.2016, 19:49:29 https://www.elitepvpers.com/forum/league-legends-trading/4041424-lol-euw-accounts-1-a.html
+||i.epvpimg.com/TEkBe.png
+
+! 17.4.2016, 19:49:34 https://www.elitepvpers.com/forum/league-legends-trading/4041424-lol-euw-accounts-1-a.html
+||i.imgur.com/f6gY725.gif
+
+! 17.4.2016, 19:49:38 https://www.elitepvpers.com/forum/league-legends-trading/4041424-lol-euw-accounts-1-a.html
+||imgur.com/aBVPA51.gif
+
+! 17.4.2016, 20:44:19 https://www.elitepvpers.com/forum/minecraft/4045392-servers.html
+||i.imgur.com/PXyAW20.gif
+
+! 18.4.2016, 22:04:11 https://www.elitepvpers.com/forum/suggestions/4046141-instant-messenger-update.html
+||i.epvpimg.com/KrjVf.gif
+
+! 18.4.2016, 22:04:14 https://www.elitepvpers.com/forum/suggestions/4046141-instant-messenger-update.html
+||i.epvpimg.com/sr0dh.png
+
+! 18.4.2016, 22:16:15 https://www.elitepvpers.com/forum/members/6413098-omnitored.html
+||i.imgur.com/QMqD808.png
+
+! 19.4.2016, 20:26:24 https://www.elitepvpers.com/forum/web-development/4046854-w-hrungsumrechner.html
+||i.epvpimg.com/aaBde.png
+
+! 19.4.2016, 20:26:27 https://www.elitepvpers.com/forum/web-development/4046854-w-hrungsumrechner.html
+||i.epvpimg.com/hPKTc.png
+
+! 20.4.2016, 13:29:26 https://www.elitepvpers.com/forum/premium-main/3930366-der-l-ngste-e-pvp-premium-thread-xxiii-1367.html
+||i.epvpimg.com/4FV2e.png
+
+! 20.4.2016, 13:54:43 https://www.elitepvpers.com/forum/trading/4046070-50-psc-de-off-s-paypal-f-f.html#post34349374
+||i.epvpimg.com/foRpd.jpg
+
+! 20.4.2016, 14:00:59 https://www.elitepvpers.com/forum/league-legends-trading/2978663-smart-boost-leveling-service-all-servers-1-30-a.html
+||i.epvpimg.com/k2n6g.png
+
+! 20.4.2016, 14:01:06 https://www.elitepvpers.com/forum/league-legends-trading/3829652-lol-elo-boost-cheap-legit-skype-livechat.html
+||i.imgur.com/IhuN42D.png
+
+! 20.4.2016, 14:01:09 https://www.elitepvpers.com/forum/league-legends-trading/3829652-lol-elo-boost-cheap-legit-skype-livechat.html
+||i.imgur.com/17aSXV3.png
+
+! 20.4.2016, 14:01:12 https://www.elitepvpers.com/forum/league-legends-trading/3829652-lol-elo-boost-cheap-legit-skype-livechat.html
+||i.imgur.com/uI6Gq5p.png
+
+! 20.4.2016, 14:27:50 https://www.elitepvpers.com/forum/elite-gold-trading/3883157-suche-800-e-gold-biete-10-psc.html
+||i.epvpimg.com/S4yJf.png
+
+! 20.4.2016, 22:15:12 https://www.elitepvpers.com/forum/unix-linux/4047110-ubuntu-anf-nger.html#post34362758
+||i.imgur.com/sCeIlnA.png
